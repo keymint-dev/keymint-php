@@ -24,7 +24,7 @@ A minimal PHP example for creating a license key using the KeyMint API.
 ## Links
 
 - [Keymint — Software Licensing API](https://keymint.dev)
-- [Keymint API docs](https://docs.keymint.dev)
+- [Keymint API docs](https://keymint.dev/docs)
 - [Keymint Dashboard](https://app.keymint.dev)
 - [Bug reports & issues](https://github.com/keymint-dev/keymint-php/issues)
 
